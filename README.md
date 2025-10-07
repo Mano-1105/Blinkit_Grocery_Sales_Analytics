@@ -33,15 +33,15 @@ The dataset contains grocery sales information with the following key attributes
 
 ## Visualizations and Dashboards
 
-- **Power BI Dashboard**
+### **Power BI Dashboard**
 The Power BI dashboard includes:
 - Sales overview with KPIs
 - Sales by item type and fat content
 - Outlet performance metrics
 - Interactive filtering capabilities
   
-- **Excel Analysis**
-The Excel analysis includes:
+### **Excel Analysis**
+ The Excel analysis includes:
 - Detailed sales analysis by product category
 - Outlet performance comparison
 - What-if analysis for business scenarios
@@ -49,7 +49,5 @@ The Excel analysis includes:
 
 ## Contribution Areas
 - Additional analysis techniques
-- Enhanced visualizations
-- New predictive models
 - Enhanced visualizations
 - New predictive models
