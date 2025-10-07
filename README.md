@@ -4,12 +4,12 @@
 This project analyzes BlinkIT grocery sales data to identify patterns, trends, and insights that can drive business decisions. The analysis spans multiple tools and technologies including Python for data processing and modeling, SQL for database management, Power BI for visualization, and Excel for advanced reporting.
 
 The project aims to:
---Identify top-performing products and outlets
---Understand factors affecting sales performance
---Discover patterns and trends in the data
---Build predictive models for sales forecasting
---Create interactive dashboards for visualization
---Provide actionable insights for business decision-making
+--Identify top-performing products and outlets.
+--Understand factors affecting sales performance.
+--Discover patterns and trends in the data.
+--Build predictive models for sales forecasting.
+--Create interactive dashboards for visualization.
+--Provide actionable insights for business decision-making.
 
 ## Data Description
 The dataset contains grocery sales information with the following key attributes:
