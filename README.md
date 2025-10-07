@@ -22,11 +22,11 @@ The dataset contains grocery sales information with the following key attributes
 - **MySQL**: Database management, SQL queries
 - **Power BI**: Interactive dashboards and visualizations
 - **Excel**: Advanced analysis, reporting
-
-## Analysis Approach
-
-### Phase 1: Data Preparation and Cleaning (Python)
--Standardized categorical variables (Item Fat Content)
--Handled missing values in Item Weight and Item Visibility
---Created new features (Outlet Age, Sales per Unit Weight)
---Performed exploratory data analysis with visualizations
+- **Data Source**: Excel file -> <a href="https://github.com/Mano-1105/Blinkit_Grocery_Sales_Analytics/blob/main/BlinkIT_Grocery_Data.xlsx">BlinkIT Grocery Data.xlsx</a>
+  
+## Key Insights
+- **Top Categories**: Fruits & Vegetables, Snack Foods, Household items drive the most sales.  
+- **Fat Content**: Low-fat items outperform regular-fat items.  
+- **Outlet Performance**: Supermarket Type 1 (especially medium-sized) leads in sales.  
+- **Correlations**: Item weight links positively with sales; visibility has negligible impact.  
+- **Sales Distribution**: Skewed — few items generate majority revenue. 
