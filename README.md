@@ -29,4 +29,25 @@ The dataset contains grocery sales information with the following key attributes
 - **Fat Content**: Low-fat items outperform regular-fat items.  
 - **Outlet Performance**: Supermarket Type 1 (especially medium-sized) leads in sales.  
 - **Correlations**: Item weight links positively with sales; visibility has negligible impact.  
-- **Sales Distribution**: Skewed — few items generate majority revenue. 
+- **Sales Distribution**: Skewed — few items generate majority revenue.
+
+## Visualizations and Dashboards
+
+- **Power BI Dashboard**
+The Power BI dashboard includes:
+- Sales overview with KPIs
+- Sales by item type and fat content
+- Outlet performance metrics
+- Interactive filtering capabilities
+  
+- **Excel Analysis**
+The Excel analysis includes:
+- Detailed sales analysis by product category
+- Outlet performance comparison
+- What-if analysis for business scenarios
+- Trend analysis over time
+
+## Contribution Areas
+- Additional analysis techniques
+- Enhanced visualizations
+- New predictive models
