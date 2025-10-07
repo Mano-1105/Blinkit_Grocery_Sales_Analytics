@@ -51,3 +51,5 @@ The Excel analysis includes:
 - Additional analysis techniques
 - Enhanced visualizations
 - New predictive models
+- Enhanced visualizations
+- New predictive models
