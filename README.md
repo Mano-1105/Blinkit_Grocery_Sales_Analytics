@@ -13,15 +13,15 @@ The project aims to:
 
 ## Data Description
 The dataset contains grocery sales information with the following key attributes:
-**Item Information**: Fat Content, Identifier, Type, Visibility, Weight
-**Outlet Information**: Establishment Year, Identifier, Location Type, Size, Type
-**Sales Metrics**: Sales amount, Rating
+- **Item Information**: Fat Content, Identifier, Type, Visibility, Weight.
+- **Outlet Information**: Establishment Year, Identifier, Location Type, Size, Type.
+- **Sales Metrics**: Sales amount, Rating.
 
 ## Tools and Technologies
-**Python** (Jupyter Notebook): Data cleaning, exploratory data analysis, predictive modeling
-**MySQL**: Database management, SQL queries
-**Power BI**: Interactive dashboards and visualizations
-**Excel**: Advanced analysis, reporting
+- **Python** (Jupyter Notebook): Data cleaning, exploratory data analysis, predictive modeling
+- **MySQL**: Database management, SQL queries
+- **Power BI**: Interactive dashboards and visualizations
+- **Excel**: Advanced analysis, reporting
 
 ## Analysis Approach
 
